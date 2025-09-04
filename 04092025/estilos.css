@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: blue;
+    font-size: 1em;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    font-size: 16px;
+}
+
+.parrafo1{
+    color: brown;
+    background-color: blueviolet;
+    font-size: 3em;
+}
+
+#parrafo2{
+    text-align: justify;
+    background-color: aliceblue;
+}
